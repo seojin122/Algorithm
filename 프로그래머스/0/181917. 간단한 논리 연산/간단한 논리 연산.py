@@ -19,4 +19,4 @@ def solution(x1, x2, x3, x4):
     else:
         answer3 = False
         
-    return answer3
+    return answer3 # (x1|x2) & (x3|x4)
